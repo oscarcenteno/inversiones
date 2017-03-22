@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inversiones.Negocio", "Inversiones.Negocio\Inversiones.Negocio.csproj", "{1249AB99-0D0E-4B58-BD9D-CB5275485C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inversiones.Negocio.UnitTests", "Inversiones.Negocio.UnitTests\Inversiones.Negocio.UnitTests.csproj", "{E446672A-84EA-4D6A-9B57-04A8D9A50E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1249AB99-0D0E-4B58-BD9D-CB5275485C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1249AB99-0D0E-4B58-BD9D-CB5275485C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1249AB99-0D0E-4B58-BD9D-CB5275485C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1249AB99-0D0E-4B58-BD9D-CB5275485C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E446672A-84EA-4D6A-9B57-04A8D9A50E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E446672A-84EA-4D6A-9B57-04A8D9A50E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E446672A-84EA-4D6A-9B57-04A8D9A50E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E446672A-84EA-4D6A-9B57-04A8D9A50E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
